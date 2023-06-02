@@ -1,0 +1,46 @@
+/*
+   New Perspectives on HTML5 and CSS3, 7th Edition
+   Tutorial 3
+   Review Assignment
+   
+   Style Sheet for the Pandaisia Chocolates Monthly Specials
+   Author: Nguyễn Hoàng Tân   
+   Date:   6/1/2023
+   
+   Filename: pc_specials.css
+
+*/
+
+/* Page Body Styles */
+body {
+  max-width: 960px;
+  min-width: 640px;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Image Styles */
+img {
+  display: block;
+  width: 100%;
+}
+
+/* Horizontal Navigation Styles */
+nav.horizontal li {
+  display: block;
+  float: left;
+  width: 16.66%;
+}
+
+nav li > a {
+  display: block;
+}
+/* Row Styles */
+
+/* Column Styles */
+
+/* Specials Styles */
+
+/* Award Styles */
+
+/* Footer Styles */
